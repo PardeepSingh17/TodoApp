@@ -54,7 +54,7 @@ https://todo-app-gules-two-35.vercel.app/
 git clone https://github.com/PardeepSingh17/TodoApp.git
 
 # Navigate into the project
-cd your-repo-name
+cd TodoApp
 
 # Install dependencies
 npm install
