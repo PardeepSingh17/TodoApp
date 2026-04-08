@@ -1,17 +1,17 @@
-# 📝 Todo App (React)
+#  Todo App (React)
 
 A modern and interactive Todo application built with React.
 This app allows users to manage tasks efficiently with features like inline editing, filtering, validation, and persistent storage.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 
 
 ---
 
-## ✨ Features
+##  Features
 
 *  Add new tasks
 *  Edit tasks inline
@@ -26,7 +26,7 @@ This app allows users to manage tasks efficiently with features like inline edit
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React (Vite)
 * **UI Library:** Material UI (MUI)
@@ -35,7 +35,7 @@ This app allows users to manage tasks efficiently with features like inline edit
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 * Managing state effectively in React
 * Component-based architecture and separation of concerns
@@ -47,7 +47,7 @@ This app allows users to manage tasks efficiently with features like inline edit
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ```bash
 # Clone the repository
@@ -65,29 +65,20 @@ npm run dev
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 This project is deployed using **Vercel**.
 
 ---
 
-## 📌 Future Improvements
-
-* 🔄 Backend integration (Node.js / Express / MongoDB)
-* 🔐 User authentication
-* ☁️ Cloud database storage
-* 🎨 More advanced UI/animations
-
----
-
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * React documentation
 * Material UI
 
 ---
 
-## ⭐ Show your support
+##  Show your support
 
 If you like this project, give it a ⭐ on GitHub!
 
