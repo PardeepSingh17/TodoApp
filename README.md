@@ -24,10 +24,10 @@ This app allows users to manage tasks efficiently with features like inline edit
  Styling: CSS
 
 # What I Learned
- Managing state effectively in React
- Component-based architecture and separation of concerns
- Handling side effects using useEffect
- Using useRef for DOM manipulation (auto-focus)
- Implementing real-world features like filtering and editing
- Improving user experience with validation and UI feedback
- Persisting data using localStorage
+Managing state effectively in React
+Component-based architecture and separation of concerns
+Handling side effects using useEffect
+Using useRef for DOM manipulation (auto-focus)
+Implementing real-world features like filtering and editing
+Improving user experience with validation and UI feedback
+Persisting data using localStorage
