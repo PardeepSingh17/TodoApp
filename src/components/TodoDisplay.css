@@ -1,0 +1,70 @@
+.TodoDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+    padding: 10px 15px;
+}
+
+.doneStyling {
+    background-color: #B8FFB8;
+    font-size: 25px;
+    text-decoration : line-through;
+    border: 2px solid #67c167;
+    border-radius: 8px;
+}
+
+.notDoneStyling {
+    background-color: rgb(240, 235, 235);
+    font-size: 25px;
+    border: 2px solid rgb(190, 190, 190);
+    border-radius: 8px;
+}
+
+.deleteIcon:hover {
+    opacity: 1;
+    transition: 100ms;
+}
+
+.deleteIcon {
+    font-size: 30px !important ;
+    opacity: 0.7; 
+}
+
+.editIcon {
+    font-size: 30px !important ;
+    opacity: 0.7; 
+}
+
+.editIcon:hover {
+    opacity: 1;
+    transition: 100ms;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    gap : 10px;
+    
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    gap : 5px;
+    margin-right: 10px;
+}
+
+.TodoDiv:hover {
+    box-shadow: 2px 2px 15px rgb(63, 63, 63);
+    transition: 200ms;
+}
+
+.noTodoHeading {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    color: rgb(190, 190, 190);
+}
